@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<div class="wordwrap">You can find my CV here: <a href="{{'http://academicpages.github.io/files/LZ_CV.pdf'}}"> Liang's CV </a>.</div>
+<div class="wordwrap">You can find my CV here: <a href="{{'http://samzl1.github.io/files/LZ_CV.pdf'}}"> Liang's CV </a>.</div>
 
 {% include base_path %}
 
