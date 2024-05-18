@@ -7,4 +7,5 @@ redirect_from:
   - /about.html
 ---
 
-My name is Liang. I'm a sixth-year PhD student at Boston University. I have broad research interests in Econometrics (Causal Inference), Racial Discrimination, Optimization, Microtheory, and Digital Marketing.
+Welcome to my website! I'm a sixth-year PhD student at Boston University, and my research focuses on Econometrics, Labor Economics, and Optimization.
+<div class="wordwrap">You can find my CV <a href="http://samzl1.github.io/files/LZ_CV.pdf"> here </a>.</div>
