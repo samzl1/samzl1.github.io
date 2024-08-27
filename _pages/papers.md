@@ -9,14 +9,14 @@ author_profile: true
 <hr>
 <h2 id="working-papers">Working Papers</h2>
 
-<ul><li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4430334" target="_blank">COPPAcalypse? The Youtube Settlement's Impact on Kids Content</a> (with <a href="https://www.garjoh.com/" style="color:black" target="_blank">Garrett Johnson</a>, <a href="https://tesarylin.github.io/" style="color:black" target="_blank">Tesary Lin</a>, and <a href="https://scholar.google.com/citations?user=nYEyFMYAAAAJ" style="color:black" target="_blank">James Cooper</a>) 
+<ul><li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4430334" style="text-decoration:none" target="_blank">COPPAcalypse? The Youtube Settlement's Impact on Kids Content</a> (with <a href="https://www.garjoh.com/" style="color: inherit; text-decoration-style: dotted" target="_blank">Garrett Johnson</a>, <a href="https://tesarylin.github.io/" style="color: inherit; text-decoration-style: dotted" target="_blank">Tesary Lin</a>, and <a href="https://scholar.google.com/citations?user=nYEyFMYAAAAJ" style="color: inherit; text-decoration-style: dotted" target="_blank">James Cooper</a>) 
 
 <br> <a href="#/" style="color:black" onclick="visib('coppa')"><em>Abstract</em></a> | <em>Revise & Resubmit, Management Science</em> </li></ul>
 
 <div id="coppa" style="display: none; background-color: #F1F1F1; color: #666; padding: 10px"> We examine the tradeoff between privacy and personalization for online content by evaluating the impact of YouTube's settlement with the Federal Trade Commission over violating the Children's Online Privacy Protection Act (COPPA). Under the settlement, YouTube removed all forms of personalization for child-directed content starting in January 2020, which included personalized ads and platform features like personalized search and recommendations. We study the resulting impact on 5,066 top American YouTube channels by comparing the child-directed content creators to their non-child-directed counterparts using a difference-in-differences design. On the supply side, we find that child-directed content creators produce 18% less content and pivot towards producing non-child-directed content. Child-directed content creators also invest less in content quality: the proportion of original content falls by 11% and manual captioning falls by 27%, while user content ratings fall by 10%. On the demand side, views of child-directed channels fall by 20%. Consistent with the platform's degraded capacity to match viewers to content, both content creation and content views become more concentrated among top child-directed YouTube channels.</div>
 
 
-<ul><li><a href="https://arxiv.org/abs/2304.14386" target="_blank">Convexity Not Required: Estimation of Smooth Moment Condition Models</a> (with <a href="http://jjforneron.com/" style="color:black" target="_blank">Jean-Jacques Forneron</a>) 
+<ul><li><a href="https://arxiv.org/abs/2304.14386" style="text-decoration:none" target="_blank">Convexity Not Required: Estimation of Smooth Moment Condition Models</a> (with <a href="http://jjforneron.com/" style="color: inherit; text-decoration-style: dotted" target="_blank">Jean-Jacques Forneron</a>) 
 
 <br> <a href="#/" style="color:black" onclick="visib('gauss')"><em>Abstract</em></a> | <em>Draft Under Review </em></li></ul>
 
@@ -38,7 +38,7 @@ tima. Numerical and empirical examples illustrate the condition, non-convexity,
 
 <ul><li><p>Unconditional Randomization Tests for Interference (Job Market Paper)</p> </li></ul>
 
-<ul><li><a href="https://drive.google.com/file/d/1EasxNQtZj6P2FP3ARSSsPan9sjhA2nmN/view" target="_blank">Racial Screening on the Big Screen: Evidence from the Motion Picture Industry</a> (with <a href="https://angela-crema.com/" style="color:black"  target="_blank">Angela Crema</a> and <a href="https://sites.google.com/view/paserman/home" style="color:black"  target="_blank">M. Daniele Paserman</a>) 
+<ul><li><a href="https://drive.google.com/file/d/1EasxNQtZj6P2FP3ARSSsPan9sjhA2nmN/view" style="text-decoration:none" target="_blank">Racial Screening on the Big Screen: Evidence from the Motion Picture Industry</a> (with <a href="https://angela-crema.com/" style="color: inherit; text-decoration-style: dotted"  target="_blank">Angela Crema</a> and <a href="https://sites.google.com/view/paserman/home" style="color: inherit; text-decoration-style: dotted"  target="_blank">M. Daniele Paserman</a>) 
 
 <br> <a href="#/" style="color:black" onclick="visib('movie')"><em>Abstract</em></a> | <em>Prepare for Submission</em> </li></ul>
 
