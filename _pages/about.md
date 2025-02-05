@@ -7,18 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! 
+I am Liang Zhong, an applied econometrician from Boston University. My research focuses on two key areas: (1) developing computationally efficient econometric tools and (2) leveraging economic theory and big data techniques to generate actionable policy insights.
 
-My name is Liang Zhong, and I am an applied econometrician from Boston University. My research focuses on two main areas: the first area is to develop computationally efficient econometric tools, and the second area is to use economic theory and big data techniques to offer actionable policy insight. 
+My job market paper bridges these areas by introducing an easy-to-implement method to address a critical policy-relevant question: how should we test for the existence and extent of interference, such as peer and spillover effects?
 
-My job market paper bridges these areas by introducing an easy-to-implement method to address a critical policy-relevant question: how should we test for the existence and extent of interference, such as peer effects and spillover effects?
+Beyond this, my broader research interests span Econometrics, Labor Economics, Digital Economics, and Microeconomic Theory.
 
-Beyond my job market paper, my research spans interdisciplinary applications, including 
-<ul><li> <a href="https://arxiv.org/abs/2304.14386" style="text-decoration:none" target="_blank"> Optimization of Non-convex Objective Functions </a> <em>(R&R at Review of Economic Studies)</em> </li> 
-<li> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4430334" style="text-decoration:none" target="_blank"> Personalization-Privacy Tradeoff in Digital Markets </a> <em> (R&R at Management Science) </em> </li> </ul> 
-
-These works reflect my broader interest in Labor Economics, Digital Economics, and Microeconomic Theory.
-
-I will be on the job market in AY 2024-2025 and available for interviews.
+I will be joining the University of Hong Kong (HKU) Business School as a tenure-track Assistant Professor in the Department of Economics in Fall 2025.
 
 <div class="wordwrap">You can find my CV <a href="http://samzl1.github.io/files/LZ_CV.pdf"> here </a>.</div>
