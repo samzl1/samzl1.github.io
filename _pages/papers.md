@@ -8,11 +8,25 @@ author_profile: true
 <section class="page__content" itemprop="text">
 <hr>
 <h2 id="working-papers">Working Papers</h2>
-<ul><li><a href="http://samzl1.github.io/files/Liang_s_JMP_arxiv.pdf" style="text-decoration:none" target="_blank">Unconditional Randomization Tests for Interference</a>   
+<ul><li><a href="https://arxiv.org/abs/2409.09243" style="text-decoration:none" target="_blank">Unconditional Randomization Tests for Interference</a>   
 
 <br> <a href="#/" style="color:black" onclick="visib('jmp')"><em>Abstract</em></a> | <em>Job Market Paper </em></li></ul>
 
-<div id="jmp" style="display: none; background-color: #F1F1F1; color: #666; padding: 10px"> In social networks or spatial experiments, one unit's outcome often depends on another's treatment, a phenomenon called interference. Researchers are interested in not only the presence and magnitude of interference but also its pattern based on factors like distance, neighboring units, and connection strength. However, the non-random nature of these factors and complex correlations across units pose challenges for inference. This paper introduces the partial null randomization tests (PNRT) framework to address these issues. The proposed method is finite-sample valid and applicable with minimal network structure assumptions, utilizing randomization testing and pairwise comparisons. Unlike existing conditional randomization tests, PNRT avoids the need for conditioning events, making it more straightforward to implement. Simulations demonstrate the method's desirable power properties and its applicability to general interference scenarios.</div>
+<div id="jmp" style="display: none; background-color: #F1F1F1; color: #666; padding: 10px"> Researchers are often interested in the existence and extent of interference
+between units when conducting causal inference or designing policy. However,
+testing for interference presents significant econometric challenges, particularly
+due to complex clustering patterns and dependencies that can invalidate stan-
+dard methods. This paper introduces the pairwise imputation-based random-
+ization test (PIRT), a general and robust framework for assessing the existence
+and extent of interference in experimental settings. PIRT employs unconditional
+randomization testing and pairwise comparisons, enabling straightforward imple-
+mentation and ensuring finite-sample validity under minimal assumptions about
+network structure. The method’s practical value is demonstrated through an
+application to a large-scale policing experiment in Bogot´a, Colombia (Blattman
+et al., 2021), which evaluates the effects of hotspot policing on crime at the street-
+segment level. The analysis reveals that increased police patrolling in hotspots
+significantly displaces violent crime, but not property crime. Simulations cali-
+brated to this context further underscore the power and robustness of PIRT.</div>
 
 
 <ul><li><a href="https://arxiv.org/abs/2304.14386" style="text-decoration:none" target="_blank">Convexity Not Required: Estimation of Smooth Moment Condition Models</a> (with <a href="http://jjforneron.com/" style="color: inherit; text-decoration-style: dotted" target="_blank">Jean-Jacques Forneron</a>) 
