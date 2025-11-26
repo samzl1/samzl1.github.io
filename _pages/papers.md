@@ -62,7 +62,7 @@ tima. Numerical and empirical examples illustrate the condition, non-convexity,
 
 
 
-<ul><li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5348749" style="text-decoration:none" target="_blank">Dynamic Delegation: Experimentation Cycles and Forward-Reverse Stopping Contracts</a> (with <a href="http://www.zixian-liu.com" style="color: inherit; text-decoration-style: dotted" target="_blank">Zixian Liu</a>) 
+<ul><li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5348749" style="text-decoration:none" target="_blank">Dynamic Delegation: Experimentation Cycles and Forward-Reverse Stopping Contracts</a> (with <a href="https://sites.google.com/view/zixianliu/home" style="color: inherit; text-decoration-style: dotted" target="_blank">Zixian Liu</a>) 
 
 <br> <a href="#/" style="color:black" onclick="visib('frsc')"><em>Abstract</em></a> | <em> Working Paper </em> </li></ul>
 
