@@ -7,12 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am Liang Zhong, an applied econometrician from Boston University. My research focuses on two key areas: (1) developing computationally efficient econometric tools and (2) leveraging economic theory and big data techniques to generate actionable policy insights.
+I am Liang Zhong, an applied econometrician. I received my Ph.D. in Economics from Boston University and am currently a tenure-track Assistant Professor in the Faculty of Business and Economics, The University of Hong Kong.
 
-My job market paper bridges these areas by introducing an easy-to-implement method to address a critical policy-relevant question: how should we test for the existence and extent of interference, such as peer and spillover effects?
-
-Beyond this, my broader research interests span Econometrics, Labor Economics, Digital Economics, and Microeconomic Theory.
-
-I will be joining the University of Hong Kong (HKU) Business School as a tenure-track Assistant Professor in the Department of Economics in Fall 2025.
+My research develops and applies methods from econometrics and economic theory to study causal and strategic behavior, primarily in Labor Economics and Digital Economics.
 
 <div class="wordwrap">You can find my CV <a href="http://samzl1.github.io/files/LZ_CV.pdf"> here </a>.</div>
