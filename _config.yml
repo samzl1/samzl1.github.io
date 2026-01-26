@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Liang Zhong"
 title_separator          : "-"
 name                     : &name "Liang Zhong"
-description              : &description "PhD student @ Boston University"
+description              : &description "Assistant Professor @ The University of Hong Kong"
 url                      : https://samzl1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "samzl1.github.io"
@@ -24,17 +24,17 @@ author:
   avatar           : "profile.png"
   name             : "Liang Zhong"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student at Boston University"
-  location         : "Boston, US"
-  employer         : "Boston University"
+  bio              : "Assistant Professor at The University of Hong Kong"
+  location         : "Hong Kong"
+  employer         : #"Boston University"
   uri              : # URL
-  email            : "samzl@bu.edu" 
+  email            : "samzl@hku.hk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=vQN1jPUAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0001-8357-2332"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
